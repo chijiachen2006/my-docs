@@ -5,3 +5,5 @@
 - [关于](about.md)
 - [使用指南](guide.md)
 - [API 参考](api.md)
+
+> 文档由 MkDocs 构建，GitHub Actions 自动部署。
